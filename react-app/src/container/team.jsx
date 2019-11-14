@@ -19,4 +19,4 @@ function ourteam() {
     )
 }
 
-export default ourteam;
+export default ourteam; 
